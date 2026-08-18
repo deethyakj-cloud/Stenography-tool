@@ -50,7 +50,6 @@ Steganography-Tool/
 ├── main.py
 ├── README.md
 ├── requirements.txt
-└── venv/
 ```
 
 > Note: The `venv/` folder is used only for local development and should not be uploaded to GitHub.
@@ -320,10 +319,6 @@ The project successfully demonstrates:
 - LSB-based image steganography
 - PNG image processing
 - Output image generation
-
-## 🔗 GitHub Repository
-
-Add your GitHub repository link here after uploading the project.
 
 ## 👩‍💻 Project Category
 
